@@ -1,13 +1,13 @@
-package com.practice.testservice;
+package com.practice.demoservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestServiceApplication {
+public class DemoServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestServiceApplication.class, args);
+		SpringApplication.run(DemoServiceApplication.class, args);
 	}
 
 }

@@ -16,7 +16,6 @@
 	<description>Practice Reactive </description>
 	<modules>
 		<module>practice-service</module>
-		<!--<module>integrationtest</module>-->
 	</modules>
 	<properties>
 		<java.version>17</java.version>
