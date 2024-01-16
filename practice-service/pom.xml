@@ -7,10 +7,10 @@
 		<artifactId>demo</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.test</groupId>
-	<artifactId>test-service</artifactId>
+	<groupId>com.practice.testservice</groupId>
+	<artifactId>practice-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>test-service</name>
+	<name>practice-service</name>
 	<description>Service module </description>
 	<properties>
 		<java.version>17</java.version>

@@ -1,4 +1,4 @@
-package com.test.testservice;
+package com.practice.testservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

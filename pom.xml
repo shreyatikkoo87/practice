@@ -15,7 +15,7 @@
 	<packaging>pom</packaging>
 	<description>Practice Reactive </description>
 	<modules>
-		<module>test-service</module>
+		<module>practice-service</module>
 		<!--<module>integrationtest</module>-->
 	</modules>
 	<properties>
